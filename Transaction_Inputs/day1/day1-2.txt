@@ -1,4 +1,4 @@
 login
-agent
+planner
 createservice 12345 20181204 Test
 logout
