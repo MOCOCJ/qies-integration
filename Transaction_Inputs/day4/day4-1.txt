@@ -1,0 +1,10 @@
+login
+agent
+sellticket
+67890
+10
+changeticket
+67890
+11111
+2
+logout
