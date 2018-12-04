@@ -1,0 +1,16 @@
+moco/qiesbackend/record/ServiceName.class
+moco/qiesbackend/record/TransactionRecord.class
+moco/qiesbackend/record/NumberTickets.class
+moco/qiesbackend/record/TransactionCode.class
+moco/qiesbackend/record/ServiceDate.class
+moco/qiesbackend/parser/TransactionQueue.class
+moco/qiesbackend/record/ServiceNumber.class
+moco/qiesbackend/BackEndManager$1.class
+moco/qiesbackend/parser/CentralServicesParser.class
+moco/qiesbackend/TicketsSold.class
+moco/qiesbackend/CentralServicesList.class
+moco/qiesbackend/BackEnd.class
+moco/qiesbackend/Service.class
+moco/qiesbackend/record/RecordElement.class
+moco/qiesbackend/BackEndManager.class
+moco/qiesbackend/parser/TransactionSummaryParser.class
