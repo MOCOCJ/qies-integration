@@ -10,7 +10,7 @@
 ```
 
 ### Setting up
-Run the `setup.py` script  
+Run the `setup.py` script
 ```shell
 # python setup.py
 ```
