@@ -4,9 +4,9 @@ sellticket
 67890
 1
 sellticket
-11111
+55555
 9
 sellticket
 12345
-45
+3
 logout
