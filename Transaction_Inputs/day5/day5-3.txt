@@ -1,0 +1,15 @@
+login
+planner
+createservice
+13579
+20181209
+Bob
+createservice
+24680
+20181209
+Paul
+createservice
+12321
+20181209
+Kathy
+logout
