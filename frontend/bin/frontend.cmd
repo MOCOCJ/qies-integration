@@ -1,0 +1,1 @@
+java -jar .\target\frontend.jar %1 %2

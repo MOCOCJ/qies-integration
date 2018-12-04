@@ -1,0 +1,9 @@
+#!/bin/bash
+executable="./target/backoffice.jar"
+
+if [ ! -f "$executable" ]
+then
+  ./mvnw -B clean package >/dev/null
+fi
+
+java -jar $executable "$1" "$2" "$3" "$4"
