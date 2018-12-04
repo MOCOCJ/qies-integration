@@ -1,0 +1,4 @@
+login
+agent
+createservice 12345 20181204 Test
+logout
